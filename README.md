@@ -26,7 +26,11 @@ Steps to begin:
 
 Screenshots:
 
-![alt text](https://github.com/AvdhootJadhav/Converto/blob/main/assets/images/main.jpeg)
+![alt text](https://github.com/AvdhootJadhav/Converto/blob/main/assets/images/main.jpeg?)
+
+![alt text](https://github.com/AvdhootJadhav/Converto/blob/main/assets/images/input.jpeg)
+
+![alt text](https://github.com/AvdhootJadhav/Converto/blob/main/assets/images/output.jpeg)
 
 
 For help getting started with Flutter, view our
