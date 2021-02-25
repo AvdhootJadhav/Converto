@@ -11,8 +11,9 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-In this project I have used an API which do not require API key and it is safe and better. Link:https://exchangeratesapi.io/
-Also, I have used an image in the app which is open source. The site contain various types of images which are free to use. Link:https://undraw.co/
+In this project I have used an API which do not require API key and it is safe and better. Link: https://exchangeratesapi.io/
+
+Also, I have used an image in the app which is open source. The site contain various types of images which are free to use. Link: https://undraw.co/
 
 Steps to begin:
 - First Star the project as it motivates us to build more projects
