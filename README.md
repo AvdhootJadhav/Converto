@@ -24,6 +24,11 @@ Steps to begin:
   - Then do ```flutter build apk --split-per-abi``` as it will produce an apk of small size which saves time
   - After the apk build is done then install the app and run it
 
+Screenshots:
+
+![alt text](https://github.com/AvdhootJadhav/Converto/blob/main/assets/images/main.jpeg)
+
+
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
